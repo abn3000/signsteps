@@ -1,7 +1,7 @@
 # signsteps
 ASL game-based language learning platform 
 
-Demo Link: LINK COMING
+Demo Link: https://abn3000.github.io/signsteps/
 
 # Unit 1
 **Topic: Letters and Numbers**
